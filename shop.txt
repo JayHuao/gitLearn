@@ -1,4 +1,8 @@
 git Learn experimental
 second git
 another git insert
+<<<<<<< HEAD
 1
+=======
+2
+>>>>>>> 375fca576e58ba9f6b35c6ee1687404ebb036f31
