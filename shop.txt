@@ -6,6 +6,7 @@ another git insert
 =======
 2
 >>>>>>> 375fca576e58ba9f6b35c6ee1687404ebb036f31
+<<<<<<< HEAD
 
 master
 
@@ -13,3 +14,8 @@ master
 book1
 book2
 book3
+=======
+branch1
+
+nnnnn
+>>>>>>> feature1
